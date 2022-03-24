@@ -40,19 +40,19 @@
     "url": "https://foxsports.com",
     "icon": "https://favicons.githubusercontent.com/foxsports.com",
     "slug": "fox-sports",
-    "status": "degraded",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 719,
-    "timeDay": 1425,
-    "timeWeek": 719,
-    "timeMonth": 719,
-    "timeYear": 719,
+    "status": "up",
+    "uptime": "99.88%",
+    "uptimeDay": "99.40%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.88%",
+    "time": 686,
+    "timeDay": 1059,
+    "timeWeek": 686,
+    "timeMonth": 686,
+    "timeYear": 686,
     "dailyMinutesDown": {
-      "2022-03-24": 0
+      "2022-03-24": 9
     }
   },
   {
