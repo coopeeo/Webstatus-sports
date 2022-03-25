@@ -22,18 +22,20 @@
     "url": "https://espn.com",
     "icon": "https://favicons.githubusercontent.com/espn.com",
     "slug": "espn",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 382,
-    "timeDay": 257,
-    "timeWeek": 382,
-    "timeMonth": 382,
-    "timeYear": 382,
-    "dailyMinutesDown": {}
+    "time": 414,
+    "timeDay": 507,
+    "timeWeek": 414,
+    "timeMonth": 414,
+    "timeYear": 414,
+    "dailyMinutesDown": {
+      "2022-03-25": 0
+    }
   },
   {
     "name": "Fox Sports",
