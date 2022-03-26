@@ -40,18 +40,20 @@
     "url": "https://foxsports.com",
     "icon": "https://favicons.githubusercontent.com/foxsports.com",
     "slug": "fox-sports",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 613,
-    "timeDay": 258,
-    "timeWeek": 613,
-    "timeMonth": 613,
-    "timeYear": 613,
-    "dailyMinutesDown": {}
+    "time": 703,
+    "timeDay": 1110,
+    "timeWeek": 703,
+    "timeMonth": 703,
+    "timeYear": 703,
+    "dailyMinutesDown": {
+      "2022-03-26": 0
+    }
   },
   {
     "name": "CBS Sports",
