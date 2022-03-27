@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 90,
     "timeDay": 96,
-    "timeWeek": 89,
+    "timeWeek": 94,
     "timeMonth": 90,
     "timeYear": 90,
     "dailyMinutesDown": {}
@@ -40,18 +40,20 @@
     "url": "https://foxsports.com",
     "icon": "https://favicons.githubusercontent.com/foxsports.com",
     "slug": "fox-sports",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 649,
-    "timeDay": 818,
-    "timeWeek": 654,
-    "timeMonth": 649,
-    "timeYear": 649,
-    "dailyMinutesDown": {}
+    "time": 726,
+    "timeDay": 1121,
+    "timeWeek": 752,
+    "timeMonth": 726,
+    "timeYear": 726,
+    "dailyMinutesDown": {
+      "2022-03-27": 0
+    }
   },
   {
     "name": "CBS Sports",
@@ -66,7 +68,7 @@
     "uptimeYear": "100.00%",
     "time": 118,
     "timeDay": 218,
-    "timeWeek": 123,
+    "timeWeek": 126,
     "timeMonth": 118,
     "timeYear": 118,
     "dailyMinutesDown": {}
@@ -84,7 +86,7 @@
     "uptimeYear": "100.00%",
     "time": 506,
     "timeDay": 282,
-    "timeWeek": 517,
+    "timeWeek": 524,
     "timeMonth": 506,
     "timeYear": 506,
     "dailyMinutesDown": {}
