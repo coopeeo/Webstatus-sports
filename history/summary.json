@@ -42,17 +42,17 @@
     "url": "https://foxsports.com",
     "icon": "https://favicons.githubusercontent.com/foxsports.com",
     "slug": "fox-sports",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.77%",
     "uptimeDay": "97.95%",
     "uptimeWeek": "99.71%",
     "uptimeMonth": "99.77%",
     "uptimeYear": "99.77%",
-    "time": 712,
-    "timeDay": 802,
-    "timeWeek": 801,
-    "timeMonth": 712,
-    "timeYear": 712,
+    "time": 757,
+    "timeDay": 1041,
+    "timeWeek": 854,
+    "timeMonth": 757,
+    "timeYear": 757,
     "dailyMinutesDown": {
       "2022-03-28": 29
     }
