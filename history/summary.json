@@ -43,11 +43,11 @@
     "icon": "https://favicons.githubusercontent.com/foxsports.com",
     "slug": "fox-sports",
     "status": "up",
-    "uptime": "99.76%",
+    "uptime": "99.77%",
     "uptimeDay": "97.95%",
     "uptimeWeek": "99.71%",
-    "uptimeMonth": "99.76%",
-    "uptimeYear": "99.76%",
+    "uptimeMonth": "99.77%",
+    "uptimeYear": "99.77%",
     "time": 712,
     "timeDay": 802,
     "timeWeek": 801,
@@ -80,17 +80,19 @@
     "url": "https://www.ncaa.com",
     "icon": "https://favicons.githubusercontent.com/www.ncaa.com",
     "slug": "ncaa",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 491,
-    "timeDay": 225,
-    "timeWeek": 391,
-    "timeMonth": 491,
-    "timeYear": 491,
-    "dailyMinutesDown": {}
+    "time": 517,
+    "timeDay": 606,
+    "timeWeek": 451,
+    "timeMonth": 517,
+    "timeYear": 517,
+    "dailyMinutesDown": {
+      "2022-03-28": 0
+    }
   }
 ]
