@@ -22,17 +22,17 @@
     "url": "https://espn.com",
     "icon": "https://favicons.githubusercontent.com/espn.com",
     "slug": "espn",
-    "status": "up",
-    "uptime": "99.34%",
-    "uptimeDay": "90.08%",
-    "uptimeWeek": "96.66%",
+    "status": "degraded",
+    "uptime": "99.35%",
+    "uptimeDay": "90.07%",
+    "uptimeWeek": "96.76%",
     "uptimeMonth": "98.30%",
-    "uptimeYear": "99.34%",
-    "time": 721,
-    "timeDay": 802,
-    "timeWeek": 971,
-    "timeMonth": 828,
-    "timeYear": 721,
+    "uptimeYear": "99.35%",
+    "time": 725,
+    "timeDay": 1061,
+    "timeWeek": 1013,
+    "timeMonth": 852,
+    "timeYear": 725,
     "dailyMinutesDown": {
       "2022-09-25": 143,
       "2022-09-24": 35,
@@ -79,8 +79,7 @@
       "2022-07-29": 56,
       "2022-07-28": 66,
       "2022-07-27": 61,
-      "2022-07-26": 9,
-      "2022-07-25": 17
+      "2022-07-26": 9
     }
   },
   {
