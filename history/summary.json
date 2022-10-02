@@ -2,7 +2,7 @@
   {
     "name": "BTN [Big Ten Network]",
     "url": "https://btn.com",
-    "icon": "https://favicons.githubusercontent.com/btn.com",
+    "icon": "https://icons.duckduckgo.com/ip3/btn.com.ico",
     "slug": "btn-big-ten-network",
     "status": "up",
     "uptime": "100.00%",
@@ -20,7 +20,7 @@
   {
     "name": "ESPN",
     "url": "https://espn.com",
-    "icon": "https://favicons.githubusercontent.com/espn.com",
+    "icon": "https://icons.duckduckgo.com/ip3/espn.com.ico",
     "slug": "espn",
     "status": "up",
     "uptime": "99.37%",
@@ -86,7 +86,7 @@
   {
     "name": "Fox Sports",
     "url": "https://foxsports.com",
-    "icon": "https://favicons.githubusercontent.com/foxsports.com",
+    "icon": "https://icons.duckduckgo.com/ip3/foxsports.com.ico",
     "slug": "fox-sports",
     "status": "up",
     "uptime": "99.62%",
@@ -147,7 +147,7 @@
   {
     "name": "CBS Sports",
     "url": "https://www.cbssports.com",
-    "icon": "https://favicons.githubusercontent.com/www.cbssports.com",
+    "icon": "https://icons.duckduckgo.com/ip3/www.cbssports.com.ico",
     "slug": "cbs-sports",
     "status": "up",
     "uptime": "100.00%",
@@ -165,7 +165,7 @@
   {
     "name": "NCAA",
     "url": "https://www.ncaa.com",
-    "icon": "https://favicons.githubusercontent.com/www.ncaa.com",
+    "icon": "https://icons.duckduckgo.com/ip3/www.ncaa.com.ico",
     "slug": "ncaa",
     "status": "up",
     "uptime": "99.68%",
