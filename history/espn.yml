@@ -1,7 +1,7 @@
 url: https://espn.com
-status: up
+status: degraded
 code: 200
-responseTime: 244
-lastUpdated: 2022-11-28T23:04:52.245Z
+responseTime: 1259
+lastUpdated: 2022-11-28T23:35:08.223Z
 startTime: Sat Mar 19 2022 23:28:15 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
