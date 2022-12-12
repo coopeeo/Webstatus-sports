@@ -1,7 +1,7 @@
 url: https://www.ncaa.com
-status: up
+status: degraded
 code: 200
-responseTime: 358
-lastUpdated: 2022-12-11T23:04:13.107Z
+responseTime: 692
+lastUpdated: 2022-12-12T04:43:17.631Z
 startTime: Sat Mar 19 2022 23:28:17 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
