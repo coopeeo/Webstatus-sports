@@ -1,7 +1,7 @@
 url: https://foxsports.com
-status: degraded
+status: up
 code: 200
-responseTime: 4731
-lastUpdated: 2023-01-25T21:53:57.897Z
+responseTime: 67
+lastUpdated: 2023-01-25T22:08:40.125Z
 startTime: Sat Mar 19 2022 23:28:16 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
