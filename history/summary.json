@@ -215,18 +215,19 @@
     "url": "https://www.ncaa.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.ncaa.com.ico",
     "slug": "ncaa",
-    "status": "up",
-    "uptime": "99.57%",
-    "uptimeDay": "97.89%",
+    "status": "degraded",
+    "uptime": "99.58%",
+    "uptimeDay": "97.87%",
     "uptimeWeek": "99.61%",
     "uptimeMonth": "99.45%",
-    "uptimeYear": "99.57%",
+    "uptimeYear": "99.58%",
     "time": 475,
-    "timeDay": 572,
-    "timeWeek": 436,
-    "timeMonth": 535,
+    "timeDay": 621,
+    "timeWeek": 464,
+    "timeMonth": 538,
     "timeYear": 475,
     "dailyMinutesDown": {
+      "2023-01-26": 0,
       "2023-01-25": 30,
       "2023-01-20": 9,
       "2023-01-18": 27,
@@ -305,8 +306,7 @@
       "2022-04-21": 16,
       "2022-04-10": 42,
       "2022-04-02": 38,
-      "2022-04-01": 6,
-      "2022-03-28": 23
+      "2022-04-01": 6
     }
   }
 ]
