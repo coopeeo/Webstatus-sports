@@ -22,17 +22,17 @@
     "url": "https://espn.com",
     "icon": "https://icons.duckduckgo.com/ip3/espn.com.ico",
     "slug": "espn",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.54%",
-    "uptimeDay": "99.40%",
+    "uptimeDay": "99.38%",
     "uptimeWeek": "99.17%",
-    "uptimeMonth": "99.32%",
+    "uptimeMonth": "99.31%",
     "uptimeYear": "99.54%",
-    "time": 712,
-    "timeDay": 716,
-    "timeWeek": 787,
-    "timeMonth": 701,
-    "timeYear": 712,
+    "time": 713,
+    "timeDay": 985,
+    "timeWeek": 837,
+    "timeMonth": 715,
+    "timeYear": 713,
     "dailyMinutesDown": {
       "2023-01-29": 9,
       "2023-01-28": 16,
@@ -100,8 +100,7 @@
       "2022-08-31": 31,
       "2022-08-29": 8,
       "2022-08-28": 65,
-      "2022-08-27": 32,
-      "2022-08-26": 13
+      "2022-08-27": 32
     }
   },
   {
