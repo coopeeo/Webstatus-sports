@@ -26,12 +26,12 @@
     "uptime": "99.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.13%",
-    "uptimeMonth": "99.11%",
+    "uptimeMonth": "99.15%",
     "uptimeYear": "99.54%",
     "time": 708,
     "timeDay": 320,
     "timeWeek": 516,
-    "timeMonth": 634,
+    "timeMonth": 629,
     "timeYear": 708,
     "dailyMinutesDown": {
       "2023-02-06": 58,
@@ -216,18 +216,19 @@
     "url": "https://www.ncaa.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.ncaa.com.ico",
     "slug": "ncaa",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.62%",
-    "uptimeDay": "98.79%",
-    "uptimeWeek": "99.25%",
-    "uptimeMonth": "99.28%",
+    "uptimeDay": "98.77%",
+    "uptimeWeek": "99.43%",
+    "uptimeMonth": "99.36%",
     "uptimeYear": "99.62%",
     "time": 478,
-    "timeDay": 545,
-    "timeWeek": 530,
-    "timeMonth": 500,
+    "timeDay": 568,
+    "timeWeek": 556,
+    "timeMonth": 490,
     "timeYear": 478,
     "dailyMinutesDown": {
+      "2023-02-09": 0,
       "2023-02-08": 18,
       "2023-02-07": 13,
       "2023-02-05": 27,
@@ -305,8 +306,7 @@
       "2022-05-23": 21,
       "2022-05-20": 9,
       "2022-05-19": 48,
-      "2022-05-18": 12,
-      "2022-05-16": 9
+      "2022-05-18": 12
     }
   }
 ]
