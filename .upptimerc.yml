@@ -5,19 +5,14 @@ repo: Webstatus-sports # The name of this repository
 sites:
   - name: BTN [Big Ten Network]
     url: https://btn.com
-    maxResponseTime: 550
   - name: ESPN
     url: https://espn.com
-    maxResponseTime: 550
   - name: Fox Sports
     url: https://foxsports.com
-    maxResponseTime: 550
   - name: CBS Sports
     url: https://www.cbssports.com
-    maxResponseTime: 550
   - name: NCAA
     url: https://www.ncaa.com
-    maxResponseTime: 550
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
