@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 97,
-    "timeDay": 113,
-    "timeWeek": 108,
-    "timeMonth": 95,
+    "timeDay": 37,
+    "timeWeek": 98,
+    "timeMonth": 93,
     "timeYear": 96,
     "dailyMinutesDown": {}
   },
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.59%",
-    "time": 616,
-    "timeDay": 238,
-    "timeWeek": 352,
-    "timeMonth": 291,
-    "timeYear": 572,
+    "time": 597,
+    "timeDay": 113,
+    "timeWeek": 307,
+    "timeMonth": 287,
+    "timeYear": 571,
     "dailyMinutesDown": {
       "2023-07-06": 9,
       "2023-02-06": 58,
@@ -112,14 +112,14 @@
     "status": "up",
     "uptime": "99.75%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.92%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.83%",
     "time": 709,
-    "timeDay": 727,
-    "timeWeek": 773,
-    "timeMonth": 637,
-    "timeYear": 736,
+    "timeDay": 538,
+    "timeWeek": 818,
+    "timeMonth": 643,
+    "timeYear": 730,
     "dailyMinutesDown": {
       "2023-08-10": 8,
       "2023-07-11": 20,
@@ -163,8 +163,7 @@
       "2022-09-12": 12,
       "2022-08-28": 10,
       "2022-08-22": 9,
-      "2022-08-19": 33,
-      "2022-08-18": 9
+      "2022-08-19": 33
     }
   },
   {
@@ -179,9 +178,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 130,
-    "timeDay": 163,
-    "timeWeek": 143,
-    "timeMonth": 132,
+    "timeDay": 48,
+    "timeWeek": 129,
+    "timeMonth": 131,
     "timeYear": 129,
     "dailyMinutesDown": {
       "2023-01-25": 9,
@@ -194,16 +193,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ncaa.com.ico",
     "slug": "ncaa",
     "status": "up",
-    "uptime": "99.75%",
+    "uptime": "99.76%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.75%",
-    "time": 490,
-    "timeDay": 651,
-    "timeWeek": 492,
-    "timeMonth": 476,
-    "timeYear": 500,
+    "time": 489,
+    "timeDay": 484,
+    "timeWeek": 513,
+    "timeMonth": 473,
+    "timeYear": 501,
     "dailyMinutesDown": {
       "2023-04-03": 17,
       "2023-02-19": 9,
@@ -263,8 +262,7 @@
       "2022-08-24": 8,
       "2022-08-23": 20,
       "2022-08-22": 20,
-      "2022-08-20": 39,
-      "2022-08-18": 22
+      "2022-08-20": 39
     }
   }
 ]
