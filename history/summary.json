@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 95,
-    "timeDay": 132,
-    "timeWeek": 94,
-    "timeMonth": 87,
+    "timeDay": 122,
+    "timeWeek": 95,
+    "timeMonth": 89,
     "timeYear": 92,
     "dailyMinutesDown": {}
   },
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.81%",
     "time": 521,
-    "timeDay": 466,
-    "timeWeek": 323,
-    "timeMonth": 304,
+    "timeDay": 258,
+    "timeWeek": 320,
+    "timeMonth": 303,
     "timeYear": 416,
     "dailyMinutesDown": {
       "2023-07-06": 9,
@@ -86,16 +86,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/foxsports.com.ico",
     "slug": "fox-sports",
     "status": "up",
-    "uptime": "99.77%",
+    "uptime": "99.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
-    "time": 696,
-    "timeDay": 786,
-    "timeWeek": 709,
-    "timeMonth": 638,
-    "timeYear": 711,
+    "time": 697,
+    "timeDay": 684,
+    "timeWeek": 722,
+    "timeMonth": 621,
+    "timeYear": 703,
     "dailyMinutesDown": {
       "2023-08-29": 8,
       "2023-08-10": 8,
@@ -130,8 +130,7 @@
       "2022-11-07": 10,
       "2022-11-04": 21,
       "2022-11-03": 28,
-      "2022-10-18": 28,
-      "2022-10-14": 92
+      "2022-10-18": 28
     }
   },
   {
@@ -146,8 +145,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 128,
-    "timeDay": 177,
-    "timeWeek": 127,
+    "timeDay": 135,
+    "timeWeek": 134,
     "timeMonth": 123,
     "timeYear": 130,
     "dailyMinutesDown": {
@@ -166,10 +165,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.78%",
-    "time": 489,
-    "timeDay": 313,
-    "timeWeek": 525,
-    "timeMonth": 442,
+    "time": 490,
+    "timeDay": 432,
+    "timeWeek": 541,
+    "timeMonth": 449,
     "timeYear": 505,
     "dailyMinutesDown": {
       "2023-04-03": 17,
@@ -222,8 +221,7 @@
       "2022-10-31": 29,
       "2022-10-29": 80,
       "2022-10-28": 16,
-      "2022-10-16": 23,
-      "2022-10-14": 39
+      "2022-10-16": 23
     }
   }
 ]
