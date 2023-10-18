@@ -137,18 +137,19 @@
     "url": "https://www.cbssports.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.cbssports.com.ico",
     "slug": "cbs-sports",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 128,
+    "time": 127,
     "timeDay": 177,
     "timeWeek": 133,
     "timeMonth": 127,
     "timeYear": 131,
     "dailyMinutesDown": {
+      "2023-10-18": 0,
       "2023-01-25": 9,
       "2023-01-19": 5
     }
