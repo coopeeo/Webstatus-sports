@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 94,
-    "timeDay": 69,
-    "timeWeek": 85,
-    "timeMonth": 91,
+    "timeDay": 19,
+    "timeWeek": 83,
+    "timeMonth": 88,
     "timeYear": 90,
     "dailyMinutesDown": {}
   },
@@ -28,10 +28,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
-    "time": 497,
-    "timeDay": 211,
-    "timeWeek": 264,
-    "timeMonth": 267,
+    "time": 495,
+    "timeDay": 214,
+    "timeWeek": 273,
+    "timeMonth": 262,
     "timeYear": 392,
     "dailyMinutesDown": {
       "2023-07-06": 9,
@@ -67,8 +67,7 @@
       "2022-12-02": 9,
       "2022-12-01": 11,
       "2022-11-28": 9,
-      "2022-11-27": 9,
-      "2022-11-16": 9
+      "2022-11-27": 9
     }
   },
   {
@@ -78,14 +77,14 @@
     "slug": "fox-sports",
     "status": "up",
     "uptime": "99.79%",
-    "uptimeDay": "98.94%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.85%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.91%",
     "time": 687,
-    "timeDay": 550,
-    "timeWeek": 543,
-    "timeMonth": 452,
+    "timeDay": 207,
+    "timeWeek": 500,
+    "timeMonth": 442,
     "timeYear": 661,
     "dailyMinutesDown": {
       "2023-11-14": 15,
@@ -131,9 +130,9 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
     "time": 178,
-    "timeDay": 43,
-    "timeWeek": 342,
-    "timeMonth": 923,
+    "timeDay": 29,
+    "timeWeek": 332,
+    "timeMonth": 919,
     "timeYear": 200,
     "dailyMinutesDown": {
       "2023-10-18": 31,
@@ -147,16 +146,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ncaa.com.ico",
     "slug": "ncaa",
     "status": "up",
-    "uptime": "99.79%",
+    "uptime": "99.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.84%",
-    "time": 494,
-    "timeDay": 718,
-    "timeWeek": 556,
+    "time": 495,
+    "timeDay": 581,
+    "timeWeek": 601,
     "timeMonth": 584,
-    "timeYear": 513,
+    "timeYear": 514,
     "dailyMinutesDown": {
       "2023-10-26": 9,
       "2023-04-03": 17,
@@ -200,8 +199,7 @@
       "2022-11-22": 31,
       "2022-11-20": 8,
       "2022-11-19": 8,
-      "2022-11-17": 42,
-      "2022-11-16": 21
+      "2022-11-17": 42
     }
   }
 ]
